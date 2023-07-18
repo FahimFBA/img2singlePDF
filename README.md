@@ -15,6 +15,7 @@ A very short Python project to convert multiple image files to a single PDF file
 * Clone the repository `git clone https://github.com/FahimFBA/img2singlePDF.git`
 * Go to the project directory `cd img2singlePDF`
 * Install `img2pdf` library `pip install img2pdf`
+* Change the file directory in the `Script.py` file
 * Run the project `python Script.py`
 * It will generate a pdf file named `ImageContainingBook.pdf` in the project directory
 
