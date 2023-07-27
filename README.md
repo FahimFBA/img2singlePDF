@@ -7,7 +7,7 @@ A very short Python project to convert multiple image files to a single PDF file
 
 ## 📦 Project Directory Structure
 
-This is what project directory looks like without Git.
+This is what the project directory looks like without Git.
 
 ```
 📦img2singlePDF
